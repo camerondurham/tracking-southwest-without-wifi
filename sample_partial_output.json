@@ -1,0 +1,21 @@
+{
+  "sat_commlink_portal": {
+    "status": "conn_ok",
+    "time": "Sat Sep 30 02:28:27 2023"
+  },
+  "pcent_flt_complete": 51,
+  "altVal": "36998",
+  "lon": "-107.664",
+  "satcomm_status": {
+    "commlink": "active",
+    "linkparams": "active"
+  },
+  "dtzone": "CDT",
+  "within_us": true,
+  "etad": "07:00 PM",
+  "lat": "34.387",
+  "gspdVal": "556",
+  "ttgc": "",
+  "dist_remain": "632",
+  "actime24": "21:39"
+}
